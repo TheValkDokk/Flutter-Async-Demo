@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/valkdokk/Documents/demo_app/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/valkdokk/Documents/demo_app/Flutter-Async-Demo/build/app/intermediates/incremental/mergeReleaseResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/valkdokk/Documents/demo_app/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/valkdokk/Documents/demo_app/Flutter-Async-Demo/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
